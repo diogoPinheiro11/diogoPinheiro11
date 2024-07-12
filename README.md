@@ -62,11 +62,11 @@ My immediate goal is to conclude the degree, further deepening my knowledge in C
 
 <h2 align="center"> 📞 Contacts 📞 </h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/diogo-pinheiro-7643812b0/" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/diogo-pinheiro-7643812b0/" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <a href="mailto:pinheirodiogo2003@gmail.com" target="_blank" style="margin-right: 10px;">
+  <a href="mailto:pinheirodiogo2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
 </div>
