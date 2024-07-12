@@ -1,8 +1,10 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Diogo+Pinheiro!;" />
+</h1>
 
 <p align="left">
   
-I'm Diogo Pinheiro, I'm 20 years old and I'm fascinated by coding and computer softwares. I'm currently in my final year studying Computer Engineering at the Polytechnic Institute of Viana do Castelo. Throughout my studies, I've acquired a wealth of knowledge and developed strong skills in the area.
+I'm 20 years old and I'm fascinated by coding and computer softwares. I'm currently in my final year studying Computer Engineering at the Polytechnic Institute of Viana do Castelo. Throughout my studies, I've acquired a wealth of knowledge and developed strong skills in the area.
 
 I consider myself to be an adaptable, communicative and flexible person. I feel comfortable working in a team and am always looking for new opportunities to grow.
 
@@ -49,17 +51,16 @@ My immediate goal is to conclude the degree, further deepening my knowledge in C
       <img width="50px" src="https://skillicons.dev/icons?i=github" />
     </p>
   </td>
-
-  <td width="40%">
-  <p align="center">
-    <a href="https://github.com/diogoPinheiro11">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoPinheiro11&langs_count=8&layout=compact&theme=holi" alt="Top Languages" />
-    </a>
-  </p>
-  </td>
   </tr>
 </table>
 
+<h2 align="center"> 🔢 Github Stats 🔢 </h2>
+<p align="center">
+  <a href="https://github.com/diogoPinheiro11">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoPinheiro11&langs_count=8&layout=compact&theme=holi" alt="Top Languages" />
+  </a>
+</p>
+  
 <h2 align="center"> 📞 Contacts 📞 </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo-pinheiro-7643812b0/" target="_blank" style="margin-right: 20px;">
