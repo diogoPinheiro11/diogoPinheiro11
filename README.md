@@ -57,24 +57,26 @@ My immediate goal is to conclude the degree, further deepening my knowledge in C
 
 <h2 align="center"> 🔢 Github Stats 🔢 </h2>
 
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://github.com/diogoPinheiro11">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoPinheiro11&langs_count=8&layout=compact&theme=holi" alt="Top Languages" />
-        </a>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://github.com/diogoPinheiro11">
-          <img width=390 src="https://streak-stats.demolab.com/?user=diogoPinheiro11&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p align="center">
+          <a href="https://github.com/diogoPinheiro11">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoPinheiro11&langs_count=8&layout=compact&theme=holi" alt="Top Languages" />
+          </a>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <a href="https://github.com/diogoPinheiro11">
+            <img width=390 src="https://streak-stats.demolab.com/?user=diogoPinheiro11&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2 align="center"> 📞 Contacts 📞 </h2>
 
