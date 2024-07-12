@@ -15,6 +15,7 @@ My immediate goal is to conclude the degree, further deepening my knowledge in C
 <br>
 
 <h2 align="center">📊 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 📊</h2>
+
 <table align="center" width="100%">
   <tr>
   <td width="60%">
@@ -55,19 +56,28 @@ My immediate goal is to conclude the degree, further deepening my knowledge in C
 </table>
 
 <h2 align="center"> 🔢 Github Stats 🔢 </h2>
-<p align="center">
-  <a href="https://github.com/diogoPinheiro11">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoPinheiro11&langs_count=8&layout=compact&theme=holi" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/diogoPinheiro11">
-    <img width=390 src="https://streak-stats.demolab.com/?user=diogoPinheiro11&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
-  </a>
-</p>
 
-  
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://github.com/diogoPinheiro11">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoPinheiro11&langs_count=8&layout=compact&theme=holi" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://github.com/diogoPinheiro11">
+          <img width=390 src="https://streak-stats.demolab.com/?user=diogoPinheiro11&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <h2 align="center"> 📞 Contacts 📞 </h2>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo-pinheiro-7643812b0/" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
