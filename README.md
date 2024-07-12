@@ -60,6 +60,13 @@ My immediate goal is to conclude the degree, further deepening my knowledge in C
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoPinheiro11&langs_count=8&layout=compact&theme=holi" alt="Top Languages" />
   </a>
 </p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/diogoPinheiro11/diogoPinheiro11/output/github-contribution-grid-snake.svg" />
+  <br>
+</div>
   
 <h2 align="center"> 📞 Contacts 📞 </h2>
 <div align="center">
