@@ -57,10 +57,15 @@ My immediate goal is to conclude the degree, further deepening my knowledge in C
 <h2 align="center"> 🔢 Github Stats 🔢 </h2>
 <p align="center">
   <a href="https://github.com/diogoPinheiro11">
-    <img width=390 src="https://streak-stats.demolab.com/?user=diogoPinheiro11&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoPinheiro11&langs_count=8&layout=compact&theme=holi" alt="Top Languages" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/diogoPinheiro11">
+    <img width=390 src="https://streak-stats.demolab.com/?user=diogoPinheiro11&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+  </a>
+</p>
+
   
 <h2 align="center"> 📞 Contacts 📞 </h2>
 <div align="center">
